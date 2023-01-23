@@ -1,0 +1,108 @@
+p{
+  color: rgb(160, 61, 61);
+}
+.button-container{
+  display: flex;
+  justify-content:right;
+}
+.avatar{
+  border-radius:100%;
+}
+.avatar-container{
+  display: flex;
+  justify-content:center;
+}
+#headline {
+  background-color: rgb(43, 45, 66);
+  padding-top: 0px;
+  color: aliceblue;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  font-size: 42px;
+}
+.img-homepage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 25px;
+}
+
+.navbar-login {
+  display: flex;
+  list-style: none;
+  height: 60px;
+  background-color: rgb(69, 72, 103);
+  align-items: center;
+  justify-content: space-between;
+}
+
+.react-icons-login {
+  margin-top: -0.2rem;
+  width: 30px;
+  color: rgb(132, 138, 190);
+}
+
+#left-nav-item-login {
+  color: rgb(132, 138, 190);
+  margin-left: 1.5rem;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(43, 45, 66);
+}
+
+#form-login {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  background-color: rgb(69, 72, 103);
+  border-radius: 10px 10px;
+  height: 450px;
+  width: 400px;
+}
+
+#caption-login {
+  font-size: 25px;
+  color: rgb(132, 138, 190);
+  margin-bottom: 2rem;
+}
+
+#form-label-login {
+  color: rgb(132, 138, 190);
+  margin-bottom: 0.5rem;
+}
+
+#form-control-login {
+  background-color: rgb(69, 72, 103);
+  border-color: rgb(112, 117, 160);
+  color: rgb(132, 138, 190);
+}
+
+#btn-primary-login {
+  background-color: rgb(69, 72, 103);
+  border-radius: 10px 1px;
+  border-color: rgb(112, 117, 160);
+  color: rgb(132, 138, 190);
+  width: 130px;
+  padding: 10px 20px 10px 20px;
+  margin-top: 20px;
+}
+
+.login-container {
+  display: flex;
+  flex-direction: block;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  margin-top: 150px;
+}
+

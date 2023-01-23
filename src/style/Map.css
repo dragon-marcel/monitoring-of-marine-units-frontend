@@ -1,0 +1,71 @@
+.leaflet-container {
+  width: 1500px;
+  height: 900px;
+}
+
+.map-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.map-history{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  margin: 10px;
+  height: 400px;
+  width :400px;
+}
+
+.ship-table-container{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  background-color: rgb(69, 72, 103);
+  width: 1000px;
+  border-radius: 10px 10px;
+  padding-bottom: 40px;
+  height: fit-content;
+  background-color: rgb(69, 72, 103);
+  margin-top: 60px;
+}
+
+#ship-table{
+  border-radius: 10px 10px;
+  width: 900px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+
+hr {
+  color: rgb(132, 138, 190);
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 35px;
+  border-top: 3px solid rgb(132, 138, 190);
+}
+
+table {
+  font-size: 15px;
+}
+
+.ship-link:hover{
+  color: #fbfbfb;
+}
+
+#tracked-ships-caption{
+  color: #fbfbfb;
+  text-align: left;
+  margin-top: 50px;
+  font-size: 32px;
+  margin-left: 70px;
+  display: flex;
+  flex-direction: row;
+}

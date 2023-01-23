@@ -1,0 +1,154 @@
+
+#modal-user-btn {
+    background-color: rgb(69, 72, 103);
+    color: rgb(132, 138, 190);
+    border: solid 1px rgb(132, 138, 190);
+    width: 130px;
+    height: 30px;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 10px 10px;
+  }
+  
+  #modal-user-btn:hover {
+    color: #fbfbfb;
+  }
+  
+  #modal-open-user-btn {
+    background-color: rgb(69, 72, 103);
+    color: rgb(132, 138, 190);
+    border: solid 1px rgb(132, 138, 190);
+    width: 120px;
+    font-size: 15px;
+    border-radius: 10px 10px;
+    height: 40px;
+    margin-right: 0.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  #modal-open-user-btn:hover {
+    color: #fbfbfb;
+  }
+  
+  
+  .modal-content {
+    background: rgb(43, 45, 66);
+    color: #fbfbfb;
+    border-radius: 10px 10px;
+  }
+  
+  .modal-dialog {
+    margin-top: 0%;
+    width: 500px;
+  }
+  
+  .modal-title {
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
+    color: rgb(132, 138, 190);
+    margin-bottom: 10px;
+  }
+  
+  #x-button {
+    background-color: rgb(69, 72, 103);
+    color: rgb(132, 138, 190);
+    border: solid 1px rgb(132, 138, 190);
+    border-radius: 10px 10px;
+    width: 35px;
+    height: 35px;
+    margin-right: 0.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 10px;
+  }
+  
+  #x-button:hover {
+    color: #fbfbfb;
+  }
+  
+  #modal-footer {
+    border-top: solid 1px rgb(132, 138, 190);
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+  
+  .modal-body{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+  
+  #modal-header {
+    border-bottom: solid 1px rgb(132, 138, 190);
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  #modal-label {
+    color: rgb(132, 138, 190);
+    margin-bottom: 0.5rem;
+  }
+  
+  #form-control-modal {
+    background-color: rgb(69, 72, 103);
+    border-color: rgb(112, 117, 160);
+    color: rgb(132, 138, 190);
+  }
+  
+  #select-control{
+    background-color: rgb(69, 72, 103);
+    border-color: rgb(112, 117, 160);
+    color: rgb(132, 138, 190);
+    margin-left: 20px;
+    margin-right: 20px;
+  
+  }
+  
+  #select-control{
+    width: 100px;
+    height: 25px;
+    border-radius: 5px 5px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #container-ou{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    background-color: rgb(69, 72, 103);
+    width:500px;
+    border-radius: 10px 10px;
+    height: fit-content;
+  }
+
+  #modal-label-ou{
+    color: rgb(132, 138, 190);
+    margin-bottom: 0.5rem;
+  }
+  
+  #form-control-modal-ou {
+    background-color: rgb(69, 72, 103);
+    border-color: rgb(112, 117, 160);
+    color: rgb(132, 138, 190);
+  }
+
+  #modal-user-btn-ou {
+    background-color: rgb(69, 72, 103);
+    color: rgb(132, 138, 190);
+    border: solid 1px rgb(132, 138, 190);
+    width: 130px;
+    height: 50px;
+    font-size: 15px;
+    border-radius: 10px 10px;
+    margin: 10px;
+  
+  }
+
+  #form-ou{
+    width: 400px;
+    margin-left: 50px;
+  }
+  
